@@ -1,4 +1,4 @@
-# Pangaea Take-home assignment
+# notifications-system
 
 ## Run services
 
